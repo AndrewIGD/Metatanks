@@ -11,15 +11,16 @@ Link for the game is here:
 
 **Player 1**
 
+**!!!When pressing play you enter a dark scene. That is the selection scene. Simply press the join button and you are good to go.**
 
 **(Menu)**
 
 
 AD - Component Selection
 
-F - Select Component
+F - Select Component / Join
 
-Q - Deselect Component
+Q - Deselect Component / Exit
 
 T - Start game
 
@@ -48,9 +49,9 @@ Z - Decrease mortar angle
 
 Arrow Keys - Component Selection
 
-Up Key - Select Component
+Up Key - Select Component / Join
 
-Down Key - Deselect Component
+Down Key - Deselect Component / Exit
 
 T - Start game
 
@@ -82,9 +83,9 @@ Keypad 1 - Decrease mortar angle
 
 Left Joystick - Component Selection
 
-A - Select Component
+A - Select Component / Join
 
-B - Deselect Component
+B - Deselect Component / Exit
 
 Y - Start Game
 
@@ -104,3 +105,10 @@ Right Trigger - Increase mortar angle
 
 Left Trigger - Decrease mortar angle
 
+# Version History
+
+**1.0a**
+
+-Game Release
+-There are currently 5 weapons: machinegun, cannon, rockets, mortar and flamer; 4 wheel types and 3 body types.
+-There are currently 5 maps.
