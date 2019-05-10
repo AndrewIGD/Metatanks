@@ -4,3 +4,21 @@ Metatanks is a game about tanks that can transform into different forms(tank, ro
 # Download
 
 Link for the game is here: 
+
+# Controls
+
+*Player 1*
+
+*(Menu)*
+
+AD - Component Selection
+F - Select Component
+Q - Deselect Component
+
+*(In-game)*
+WASD - Movement
+F - Fire
+G - Transform
+T - Detransform
+C - Increase mortar angle
+Z - Decrease mortar angle
