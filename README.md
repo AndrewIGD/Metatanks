@@ -110,5 +110,7 @@ Left Trigger - Decrease mortar angle
 **1.0a**
 
 -Game Release
+
 -There are currently 5 weapons: machinegun, cannon, rockets, mortar and flamer; 4 wheel types and 3 body types.
+
 -There are currently 5 maps.
